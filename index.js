@@ -4,5 +4,5 @@ import './style.css';
 // Write Javascript code!
 const appDiv = document.getElementById('app');
 appDiv.innerHTML = `<h1>JS Starter</h1>`;
-const message = "Hello, World!";
+const message = 'Hello, World!';
 console.log(message);
